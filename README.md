@@ -36,6 +36,7 @@
 - Backlog
 - Figma
 - Zoom
+- Mailtrap
 - Stripe（決済）
 - Onamae.com（ドメイン取得のみ）
 
