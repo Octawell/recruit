@@ -7,13 +7,16 @@
 
 ### Web Application
 
-- PHP 7.3.x / Laravel 6.x LTS
+- PHP 7.3.x / Laravel 6.x LTS / PHP Unit / php-cs-fixer / PHP Stan
 - HTML / CSS / JavaScript / Bootstrap 4.x / AdminLTE 3.x
 
 ### Mobile Application
 
 - Swift 5.x
+  - Combine, SnapKit, Alamofire, Nuke, Realm, Firebase
+  - SwiftFormat, SwiftLint, Carthage, CocoaPods
 - Kotlin 1.4.10
+  - Retrofit, Epoxy, Coil, MPAndroidChart, Firebase, Coroutines
 
 ### Server / Infrastructure
 
@@ -73,6 +76,10 @@
 また、対象ユーザーの年齢層は幅広いですが、収益の要のサービスの年齢層は40代以上となります。  
 そういった方たちにも使いやすいと思ってもらえるものを一緒に考えて作っていきたいと思える方だと尚嬉しいです。  
 ※ リリース中のモバイルアプリに関しては、年齢が若めの方が比較的多いです。
+
+## 課題感
+
+- ウェブフロントエンドやインフラ技術に主に課題感があります
 
 ## 環境 / 待遇
 
