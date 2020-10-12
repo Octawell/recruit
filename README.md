@@ -18,6 +18,10 @@
 - Kotlin 1.4.10
   - Retrofit, Epoxy, Coil, MPAndroidChart, Firebase, Coroutines
 
+### Database
+
+- MySQL 8.x（AWS）
+
 ### Server / Infrastructure
 
 - Nginx
