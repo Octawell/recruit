@@ -8,14 +8,14 @@
 ### Web Application
 
 - PHP 7.3.x / Laravel 6.x LTS / PHP Unit / php-cs-fixer / PHP Stan
-- HTML / CSS / JavaScript / Bootstrap 4.x / AdminLTE 3.x
+- HTML / CSS / JavaScript / Bootstrap 4.x / AdminLTE 3.x / jQuery 3.5.1
 
 ### Mobile Application
 
-- Swift 5.x
+- Swift 5.x（基本的に最新版を使用します）
   - Combine, SnapKit, Alamofire, Nuke, Realm, Firebase
   - SwiftFormat, SwiftLint, Carthage, CocoaPods
-- Kotlin 1.4.10
+- Kotlin 1.4.x（基本的に最新版を使用します）
   - Retrofit, Epoxy, Coil, MPAndroidChart, Firebase, Coroutines
 
 ### Database
