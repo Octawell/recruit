@@ -14,9 +14,13 @@
 
 - Swift 5.x（基本的に最新版を使用します）
   - Combine, SnapKit, Alamofire, Nuke, Realm, Firebase
-  - SwiftFormat, SwiftLint, Carthage, CocoaPods
+  - SwiftFormat, SwiftLint, Swift Package Manager, CocoaPods
 - Kotlin 1.4.x（基本的に最新版を使用します）
   - Retrofit, Epoxy, Coil, MPAndroidChart, Firebase, Coroutines
+
+### Others
+
+- shell script
 
 ### Database
 
