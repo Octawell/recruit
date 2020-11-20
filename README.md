@@ -46,7 +46,8 @@
 - Slack
 - Backlog
 - Figma
-- Zoom
+- Zoom / Zoom API
+- Teams / Teams API
 - DeployGate
 - Mailtrap
 - Stripe（決済）
