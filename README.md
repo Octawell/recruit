@@ -26,8 +26,9 @@
 
 - AWS MySQL 5.7, 8.x
 
-### Server / Infrastructure
+### Middleware / Infrastructure
 
+- Docker
 - Nginx
 - AWS
 
