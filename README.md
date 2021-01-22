@@ -51,6 +51,7 @@
 - Teams / Teams API
 - DeployGate
 - Mailtrap
+- SendGrid
 - Stripe（決済）
 - Onamae.com（ドメイン取得のみ）
 
