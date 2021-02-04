@@ -8,7 +8,8 @@
 ### Web Application
 
 - PHP 7.3.x / Laravel 6.x LTS / PHP Unit / php-cs-fixer / PHP Stan
-- HTML / CSS / JavaScript / Bootstrap 4.x / AdminLTE 3.x / jQuery 3.5.1
+- HTML / CSS / Bootstrap 4.x / AdminLTE 3.x
+- JavaScript / Prettier / ESLint / jQuery 3.5.1
 
 ### Mobile Application
 
@@ -21,10 +22,11 @@
 ### Others
 
 - shell script
+- bat script
 
 ### Database
 
-- AWS MySQL 5.7, 8.x
+- AWS MySQL 8.x
 
 ### Middleware / Infrastructure
 
